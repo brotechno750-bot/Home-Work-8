@@ -18873,7 +18873,7 @@
 }
 
 .body-pinks {
-  background-color: #e1defc;
+  background-color: #d2d0e2;
 }
 
 .max-w-1500 {
@@ -18887,6 +18887,97 @@
 
 .telpic {
   display: none;
+}
+
+.div2 {
+  width: 1149px;
+  height: 500px;
+  margin: 0px auto;
+  margin-top: 65px;
+  margin-bottom: 92px;
+}
+.div2 .div2bolo {
+  display: flex;
+}
+.div2 .div2bolo .div2chap h2 {
+  font-family: Directo;
+  font-weight: 700;
+  font-size: 46px;
+}
+.div2 .div2bolo .div2chap .div2ch {
+  font-family: Faber Sans Pro;
+  font-weight: 400;
+  font-size: 20px;
+  color: #8682a7;
+  margin-top: 20px;
+  margin-bottom: 46px;
+}
+.div2 .div2bolo .div2chap .divbut {
+  width: 516px;
+  height: 55px;
+  background-color: #e8e5fb;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-top-left-radius: 15px;
+  border-bottom-left-radius: 50px;
+  border-top-right-radius: 50px;
+  border-bottom-right-radius: 15px;
+}
+.div2 .div2bolo .div2chap .divbut .number {
+  width: 292px;
+  height: 55px;
+  border: none;
+  display: flex;
+  align-items: center;
+  justify-content: start;
+  border-top-left-radius: 15px;
+  border-bottom-left-radius: 50px;
+  background-color: #e8e5fb;
+  color: #6d698c;
+  gap: 14px;
+  margin-left: 59px;
+  margin-right: -140px;
+}
+.div2 .div2bolo .div2chap .divbut button {
+  width: 245px;
+  height: 55px;
+  color: white;
+  background-color: #5b45ff;
+  border: none;
+  border-top-left-radius: 15px;
+  border-bottom-left-radius: 50px;
+  border-top-right-radius: 50px;
+  border-bottom-right-radius: 15px;
+  margin-left: 59px;
+}
+.div2 .div2bolo .div2rost img {
+  width: 657px;
+  height: 463px;
+}
+.div2 .div2tah {
+  width: 1148px;
+  height: 69px;
+  display: flex;
+  justify-content: space-between;
+}
+.div2 .div2tah div {
+  width: 272px;
+  height: 69px;
+  border-radius: 15px;
+  background-color: white;
+  font-family: Faber Sans Pro;
+  font-weight: 400;
+  font-size: 14px;
+  color: #6d698c;
+  gap: 22px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.div2 .div2tah div img {
+  width: 30px;
+  height: 26px;
 }
 
 @media (max-width: 511px) {
@@ -27054,5 +27145,110 @@
   }
   .dont {
     display: none;
+  }
+  .div2 {
+    width: 390px;
+    height: 1400px;
+    margin: 0px auto;
+    margin-top: 65px;
+    margin-bottom: 92px;
+    margin: auto;
+  }
+  .div2 .div2bolo {
+    display: flex;
+    flex-direction: column;
+    margin: auto;
+  }
+  .div2 .div2bolo .div2chap h2 {
+    font-family: Directo;
+    font-weight: 700;
+    font-size: 30px;
+    text-align: center;
+    margin-top: 26px;
+    margin-bottom: 9px;
+  }
+  .div2 .div2bolo .div2chap .div2ch {
+    font-family: Faber Sans Pro;
+    font-weight: 400;
+    font-size: 16px;
+    text-align: center;
+    margin: auto;
+    margin-bottom: 33px;
+  }
+  .div2 .div2bolo .div2chap .divbut {
+    width: 390px;
+    height: 130px;
+    background-color: #d2d0e2;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    border-radius: 0px;
+    gap: 11px;
+    margin: auto;
+  }
+  .div2 .div2bolo .div2chap .divbut .number {
+    width: 360px;
+    height: 55px;
+    border: none;
+    display: flex;
+    align-items: center;
+    justify-content: start;
+    border-top-left-radius: 15px;
+    border-bottom-left-radius: 50px;
+    border-top-right-radius: 50px;
+    border-bottom-right-radius: 15px;
+    background-color: #e8e5fb;
+    color: #6d698c;
+    margin: auto;
+    gap: 14px;
+    margin: 0px;
+  }
+  .div2 .div2bolo .div2chap .divbut .number img {
+    margin-left: 40px;
+  }
+  .div2 .div2bolo .div2chap .divbut button {
+    width: 360px;
+    height: 55px;
+    color: white;
+    background-color: #5b45ff;
+    border-top-left-radius: 15px;
+    border-bottom-left-radius: 50px;
+    border-top-right-radius: 50px;
+    border-bottom-right-radius: 15px;
+    margin: 0px;
+    margin: auto;
+  }
+  .div2 .div2bolo .div2rost img {
+    width: 370px;
+    height: 250px;
+    margin: 0px auto;
+    margin-top: 54px;
+    margin-left: 10px;
+  }
+  .div2 .div2tah {
+    width: 370px;
+    height: 300px;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+    align-items: center;
+    gap: 0;
+  }
+  .div2 .div2tah div {
+    width: 272px;
+    height: 69px;
+    border-radius: 15px;
+    background-color: white;
+    font-family: Faber Sans Pro;
+    font-weight: 400;
+    font-size: 14px;
+    color: #6d698c;
+    gap: 0;
+  }
+  .div2 .div2tah div img {
+    width: 30px;
+    height: 26px;
   }
 }/*# sourceMappingURL=style.css.map */
