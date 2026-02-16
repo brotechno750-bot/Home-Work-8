@@ -18890,6 +18890,7 @@
 }
 
 .div2 {
+  max-width: 1520px;
   width: 1149px;
   height: 500px;
   margin: 0px auto;
@@ -18981,9 +18982,11 @@
 }
 
 .div3 {
+  max-width: 1520px;
   width: 1288px;
-  height: 969px;
+  height: 780px;
   margin-left: 60px;
+  margin: auto;
 }
 .div3 .div3textbolo {
   font-family: Directo;
@@ -19031,6 +19034,292 @@
   font-weight: 400;
   font-size: 14px;
   color: #6d698c;
+}
+
+.div4 {
+  max-width: 1520px;
+  width: 1200px;
+  height: 1694px;
+  background-color: aqua;
+  margin: 0px auto;
+}
+.div4 .div4textbolo {
+  text-align: center;
+}
+.div4 .div4textbolo h3 {
+  font-family: Directo;
+  font-weight: 700;
+  font-size: 36px;
+  color: #2d2d2d;
+  margin-bottom: 24px;
+}
+.div4 .div4textbolo p {
+  font-family: Faber Sans Pro;
+  font-weight: 400;
+  font-size: 20px;
+  color: #6d698c;
+}
+.div4 .div4mobayn {
+  width: 1062px;
+  height: 630px;
+  margin: 0px auto;
+  background-color: gold;
+  margin-top: 67px;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 160px;
+}
+.div4 .div4mobayn .div4box1 {
+  width: 320px;
+  height: 256px;
+  background-color: red;
+  text-align: center;
+  margin-bottom: 50px;
+}
+.div4 .div4mobayn .div4box1 img {
+  width: 180px;
+  height: 151px;
+  margin-bottom: 59px;
+}
+.div4 .div4mobayn .div4box1 .p {
+  font-family: Faber Sans Pro;
+  font-weight: 400;
+  font-size: 18px;
+  color: #6d698c;
+  text-align: center;
+}
+.div4 .div4mobayn .div4box2 {
+  width: 157px;
+  height: 256px;
+  background-color: red;
+  text-align: center;
+  margin-bottom: 50px;
+}
+.div4 .div4mobayn .div4box2 img {
+  width: 142.6781616211px;
+  height: 188.9026184082px;
+  margin-top: -38px;
+  margin-bottom: 59px;
+}
+.div4 .div4mobayn .div4box2 .p {
+  font-family: Faber Sans Pro;
+  font-weight: 400;
+  font-size: 18px;
+  color: #6d698c;
+  text-align: center;
+}
+.div4 .div4mobayn .div4box3 {
+  width: 228px;
+  height: 256px;
+  background-color: red;
+  text-align: center;
+  margin-bottom: 50px;
+}
+.div4 .div4mobayn .div4box3 img {
+  width: 100px;
+  height: 194px;
+  margin-top: -38px;
+  margin-bottom: 53px;
+}
+.div4 .div4mobayn .div4box3 .p {
+  font-family: Faber Sans Pro;
+  font-weight: 400;
+  font-size: 18px;
+  color: #6d698c;
+  text-align: center;
+}
+.div4 .div4mobayn .div4box4 {
+  width: 228px;
+  height: 256px;
+  background-color: red;
+  text-align: center;
+  margin-top: -100px;
+  margin-left: 50px;
+}
+.div4 .div4mobayn .div4box4 img {
+  width: 200px;
+  height: 159px;
+  margin-bottom: 53px;
+}
+.div4 .div4mobayn .div4box4 .p {
+  font-family: Faber Sans Pro;
+  font-weight: 400;
+  font-size: 18px;
+  color: #6d698c;
+  text-align: center;
+}
+.div4 .div4mobayn .div4box5 {
+  width: 241px;
+  height: 256px;
+  background-color: red;
+  text-align: center;
+  margin-top: -100px;
+}
+.div4 .div4mobayn .div4box5 img {
+  width: 190.348236084px;
+  height: 196.7995300293px;
+  margin-bottom: 53px;
+  margin-top: -35px;
+}
+.div4 .div4mobayn .div4box5 .p {
+  font-family: Faber Sans Pro;
+  font-weight: 400;
+  font-size: 18px;
+  color: #6d698c;
+  text-align: center;
+}
+.div4 .div4mobayn .div4box6 {
+  width: 241px;
+  height: 256px;
+  background-color: red;
+  text-align: center;
+  margin-top: -100px;
+  margin-left: -50px;
+}
+.div4 .div4mobayn .div4box6 img {
+  width: 148.2931976318px;
+  height: 194px;
+  margin-bottom: 53px;
+  margin-top: -35px;
+}
+.div4 .div4mobayn .div4box6 .p {
+  font-family: Faber Sans Pro;
+  font-weight: 400;
+  font-size: 18px;
+  color: #6d698c;
+  text-align: center;
+}
+.div4 .div4tah {
+  max-width: 1520px;
+  display: flex;
+  width: 1200px;
+  height: 600px;
+  background-color: red;
+  margin-top: 100px;
+}
+.div4 .div4tah .div4chap h2 {
+  font-family: Directo;
+  font-weight: 700;
+  font-size: 36px;
+  margin-top: 100px;
+  margin-bottom: 16px;
+}
+.div4 .div4tah .div4chap .div4p {
+  font-family: Faber Sans Pro;
+  font-weight: 400;
+  font-size: 20px;
+  color: #2d2d2d;
+}
+.div4 .div4tah .div4chap .div4pic {
+  display: flex;
+  gap: 30px;
+  margin-top: 27px;
+  margin-bottom: 58px;
+}
+.div4 .div4tah .div4chap .div4pic .div4pic2 {
+  display: flex;
+  align-items: center;
+  gap: 37px;
+}
+.div4 .div4tah .div4chap .div4pic .div4pic2 img {
+  width: 55px;
+  height: 47px;
+}
+.div4 .div4tah .div4chap .div4pic .div4pic2 p {
+  font-family: Faber Sans Pro;
+  font-weight: 400;
+  font-size: 16px;
+  color: #2d2d2d;
+}
+
+.div5 {
+  background: linear-gradient(135deg, #7b6cf6, #6a5ae0);
+  padding: 80px 0;
+  width: 1521px;
+  height: 662px;
+}
+
+.div5text {
+  width: 1200px;
+  max-width: 90%;
+  margin: 0 auto;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.div5textchap {
+  max-width: 600px;
+  color: #fff;
+}
+
+.div5textchap h1 {
+  font-size: 40px;
+  font-weight: 700;
+}
+
+.div5textchap h1 span {
+  color: #ffd84d;
+}
+
+.div5red {
+  margin: 20px 0 40px;
+  font-size: 18px;
+}
+
+.div5form {
+  margin-bottom: 15px;
+}
+
+.div5forminput {
+  display: flex;
+  gap: 15px;
+  margin-bottom: 15px;
+}
+
+.div5forminput input {
+  padding: 15px 20px;
+  border-radius: 30px;
+  border: none;
+  outline: none;
+  width: 220px;
+}
+
+button {
+  background: #2ecc71;
+  color: white;
+  padding: 15px 35px;
+  border-radius: 30px;
+  border: none;
+  font-size: 16px;
+  margin-left: 30px;
+}
+
+button:hover {
+  background: #27ae60;
+}
+
+.div5buts {
+  display: flex;
+}
+
+.div5buts img {
+  width: 14px;
+  height: 14px;
+  margin-top: 10px;
+}
+
+.div5but {
+  color: #a196f6;
+  text-align: center;
+  margin-left: 10px;
+  font-size: 11px;
+  margin-top: 10px;
+}
+
+.div5rost img {
+  width: 510px;
+  height: 594px;
 }
 
 @media (max-width: 511px) {
@@ -27352,5 +27641,215 @@
     font-weight: 400;
     font-size: 14px;
     color: #6d698c;
+  }
+  .div4 {
+    width: 380px;
+    height: 2000px;
+    top: 2290px;
+    left: 15px;
+    background-color: aqua;
+    margin: 0px auto;
+  }
+  .div4 .div4textbolo {
+    text-align: center;
+    margin-top: 100px;
+  }
+  .div4 .div4textbolo h3 {
+    font-family: Directo;
+    font-weight: 700;
+    font-size: 22px;
+    color: #2d2d2d;
+    text-align: center;
+    margin: 0px;
+  }
+  .div4 .div4textbolo .div4text {
+    margin-bottom: 50px;
+  }
+  .div4 .div4textbolo p {
+    font-family: Faber Sans Pro;
+    font-weight: 400;
+    font-size: 20px;
+    color: #6d698c;
+  }
+  .div4 .div4mobayn {
+    width: 370px;
+    height: 900px;
+    margin: 0px auto;
+    background-color: gold;
+    margin-top: 67px;
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 0px;
+    gap: 30px;
+  }
+  .div4 .div4mobayn .div4box1 {
+    width: 140px;
+    height: 256px;
+    background-color: red;
+    text-align: center;
+    margin-bottom: 50px;
+    margin: 0px;
+    margin: auto;
+  }
+  .div4 .div4mobayn .div4box1 img {
+    width: 112px;
+    height: 94px;
+    margin-bottom: 33px;
+  }
+  .div4 .div4mobayn .div4box1 .p {
+    font-family: Faber Sans Pro;
+    font-weight: 400;
+    font-size: 12px;
+    width: 140px;
+    height: 54px;
+    color: #6d698c;
+    text-align: center;
+  }
+  .div4 .div4mobayn .div4box2 {
+    width: 157px;
+    height: 256px;
+    background-color: red;
+    text-align: center;
+    margin: 0px;
+    margin: auto;
+  }
+  .div4 .div4mobayn .div4box2 img {
+    width: 89px;
+    height: 120px;
+    margin: 0px;
+    margin-bottom: 33px;
+  }
+  .div4 .div4mobayn .div4box2 .p {
+    font-family: Faber Sans Pro;
+    font-weight: 400;
+    font-size: 12px;
+    color: #6d698c;
+    text-align: center;
+  }
+  .div4 .div4mobayn .div4box3 {
+    width: 140px;
+    height: 220px;
+    background-color: red;
+    text-align: center;
+    margin: 0px;
+    margin: auto;
+  }
+  .div4 .div4mobayn .div4box3 img {
+    width: 53px;
+    height: 104px;
+    margin: 0px;
+    margin-bottom: 33px;
+  }
+  .div4 .div4mobayn .div4box3 .p {
+    font-family: Faber Sans Pro;
+    font-weight: 400;
+    font-size: 12px;
+    color: #6d698c;
+    text-align: center;
+  }
+  .div4 .div4mobayn .div4box4 {
+    width: 130px;
+    height: 220px;
+    background-color: red;
+    text-align: center;
+    margin: 0px;
+    margin: auto;
+  }
+  .div4 .div4mobayn .div4box4 img {
+    width: 130px;
+    height: 103px;
+    margin-bottom: 33px;
+  }
+  .div4 .div4mobayn .div4box4 .p {
+    font-family: Faber Sans Pro;
+    font-weight: 400;
+    font-size: 12px;
+    color: #6d698c;
+    text-align: center;
+  }
+  .div4 .div4mobayn .div4box5 {
+    width: 150px;
+    height: 220px;
+    background-color: red;
+    text-align: center;
+    margin: 0px;
+    margin: auto;
+  }
+  .div4 .div4mobayn .div4box5 img {
+    width: 109px;
+    height: 113px;
+    margin-bottom: 53px;
+    margin-top: -35px;
+  }
+  .div4 .div4mobayn .div4box5 .p {
+    font-family: Faber Sans Pro;
+    font-weight: 400;
+    font-size: 12px;
+    color: #6d698c;
+    text-align: center;
+  }
+  .div4 .div4mobayn .div4box6 {
+    width: 150px;
+    height: 220px;
+    background-color: red;
+    text-align: center;
+    margin: 0px;
+    margin: auto;
+  }
+  .div4 .div4mobayn .div4box6 img {
+    width: 94px;
+    height: 123px;
+    margin-bottom: 33px;
+    margin-top: -35px;
+  }
+  .div4 .div4mobayn .div4box6 .p {
+    font-family: Faber Sans Pro;
+    font-weight: 400;
+    font-size: 12px;
+    color: #6d698c;
+    text-align: center;
+  }
+  .div4 .div4tah {
+    max-width: 1520px;
+    display: flex;
+    width: 390px;
+    height: 600px;
+    background-color: red;
+    margin-top: 100px;
+  }
+  .div4 .div4tah .div4chap h2 {
+    font-family: Directo;
+    font-weight: 700;
+    font-size: 36px;
+    margin-top: 100px;
+    margin-bottom: 16px;
+  }
+  .div4 .div4tah .div4chap .div4p {
+    font-family: Faber Sans Pro;
+    font-weight: 400;
+    font-size: 20px;
+    color: #2d2d2d;
+  }
+  .div4 .div4tah .div4chap .div4pic {
+    display: flex;
+    gap: 30px;
+    margin-top: 27px;
+    margin-bottom: 58px;
+  }
+  .div4 .div4tah .div4chap .div4pic .div4pic2 {
+    display: flex;
+    align-items: center;
+    gap: 37px;
+  }
+  .div4 .div4tah .div4chap .div4pic .div4pic2 img {
+    width: 55px;
+    height: 47px;
+  }
+  .div4 .div4tah .div4chap .div4pic .div4pic2 p {
+    font-family: Faber Sans Pro;
+    font-weight: 400;
+    font-size: 16px;
+    color: #2d2d2d;
   }
 }/*# sourceMappingURL=style.css.map */
